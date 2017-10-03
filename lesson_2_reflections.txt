@@ -1,0 +1,10 @@
+Question
+What happens when you initialize a repository? Why do you need to do it?
+Answer
+It creates the hidden git folder to start tracking the project files therein. It creats a replica of the repository
+to your local hard drive so that you can work online or offline.
+
+Question
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Answer
+It gives you flexibility when adding files as logical commits
