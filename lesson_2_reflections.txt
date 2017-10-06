@@ -18,3 +18,7 @@ Question
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Answer
 You can see where your at with the various tests and experiments you are testing without affecting your master branch
+Master branch - 100% working
+Experimental branch - 
+Bug branch - 
+Features branch -
